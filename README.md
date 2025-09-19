@@ -12,6 +12,10 @@ Supports both English and French languages.
 
 <br/>
 
+<img src="https://i.postimg.cc/4dQRwbYh/image.png">
+
+<br/>
+
 ## Add the Bot to Your Server
 
 Click the link below to invite the bot to your Discord server:<br/>
