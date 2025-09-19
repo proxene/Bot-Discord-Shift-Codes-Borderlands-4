@@ -1,16 +1,31 @@
-# SHiFT Bot for Borderlands 4
+# SHiFT CODES BORDERLANDS 4 Bot 🎮
 
-A Discord bot that fetches and posts **Borderlands 4 SHiFT codes** automatically in your server, with multi-language support and donation options.
+[![GitHub Issues](https://img.shields.io/github/issues/proxene/Bot-Discord-Shift-Codes-Borderlands-4.svg?style=for-the-badge)](https://github.com/proxene/Bot-Discord-Shift-Codes-Borderlands-4/issues)
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
+
+SHiFT Bot is a Discord bot that automatically posts **Borderlands 4 SHiFT codes** in your server.  
+Supports both English and French languages.
 
 ---
 
-## Features
+## Add the Bot to Your Server
 
-- Fetches SHiFT codes every 30 minutes.
-- Sends embed messages with rewards and expiration dates.
-- Multi-language support: **English** & **French**.
-- `/setchannel` - Set the channel to receive codes.
-- `/setlang` - Choose the language for messages.
-- `/help` - Display bot commands.
-- `/donate` - Share a link to support the bot.
-- `/support` - Get assistance via a support link/button.
+Click the link below to invite the bot to your Discord server:
+
+[**Add SHiFT Bot to Discord**](https://discord.com/oauth2/authorize?client_id=1418514103126855771&scope=bot&permissions=8)
+
+> ⚠️ Make sure you have **administrator permissions** in your server to add the bot.
+
+---
+
+## Commands
+
+The bot uses **slash commands** (`/`) for configuration and help:
+
+| Command | VALUE | Description |
+|---------|-------|-------------|
+| `/setchannel` | | Set the channel to receive SHiFT codes |
+| `/setlang` | en - fr | Set the language of the bot for this server |
+| `/help` | | Show all available commands |
+| `/donate` | | Support the bot by donating |
+| `/support` | | Get assistance or support |
