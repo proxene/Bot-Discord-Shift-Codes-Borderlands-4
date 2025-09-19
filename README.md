@@ -1,4 +1,4 @@
-# SHiFT CODES BORDERLANDS 4 Bot 🎮
+# SHiFT CODES BORDERLANDS 4 Bot
 
 <br/>
 
