@@ -34,5 +34,5 @@ The bot uses **slash commands** (`/`) for configuration and help:
 | `/setchannel` | | Set the channel to receive SHiFT codes |
 | `/setlang` | en - fr | Set the language of the bot for this server |
 | `/codes` | | Display the list of non-expired SHiFT codes |
-| `/checkcode` | code | Display the list of non-expired SHiFT codes |
+| `/checkcode` | code | Check the status of a specific SHiFT code |
 | `/help` | | Show all available commands |
