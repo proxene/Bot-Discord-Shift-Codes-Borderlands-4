@@ -1,3 +1,9 @@
+## [1.0.4] - 2025-09-28
+
+- Deployed a fix for /codes commands that display expired codes.
+
+<br>
+
 ## [1.0.3] - 2025-09-25
 
 - Global improvements.
