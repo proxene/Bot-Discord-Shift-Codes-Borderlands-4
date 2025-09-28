@@ -2,11 +2,6 @@
 
 <br/>
 
-> [!CAUTION]
-> The application is currently under review by Discord, so it cannot be added at the moment.<br/>Thank you for checking back later and for your patience.
-
-<br/>
-
 [![GitHub Issues](https://img.shields.io/github/issues/proxene/Bot-Discord-Shift-Codes-Borderlands-4.svg?style=for-the-badge)](https://github.com/proxene/Bot-Discord-Shift-Codes-Borderlands-4/issues)
 ![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
 
