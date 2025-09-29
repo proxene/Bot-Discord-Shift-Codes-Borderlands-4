@@ -1,6 +1,8 @@
 ## [1.0.4] - 2025-09-28
 
-- Deployed a fix for /codes commands that display expired codes.
+- Fixed an issue where the `/codes` command displayed expired codes.  
+- Improved formatting: rewards are now shown on a single line and codes are visually separated for easier reading.  
+- Removed unnecessary long text blocks — only the essential information is shown. 
 
 <br>
 
