@@ -34,6 +34,7 @@ The bot uses **slash commands** (`/`) for configuration and help:
 | `/setchannel` | | Set the channel to receive SHiFT codes | Admin |
 | `/setlang` | en - fr | Set the language of the bot for this server | Admin |
 | `/vaultopt` | include - exclude | Opt-in or opt-out this server from the Vault Hunt event | Admin |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | `/codes` | | Display the list of non-expired SHiFT codes | Everyone |
 | `/vault` | | Participate in the Vault Hunt event! | Everyone |
 | `/checkcode` | code | Check the status of a specific SHiFT code | Everyone |
