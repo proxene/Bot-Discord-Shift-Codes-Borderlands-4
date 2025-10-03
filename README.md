@@ -29,10 +29,12 @@ Make sure you have **administrator permissions** in your server to add the bot.
 
 The bot uses **slash commands** (`/`) for configuration and help:
 
-| Command | VALUE | Description |
-|---------|-------|-------------|
-| `/setchannel` | | Set the channel to receive SHiFT codes |
-| `/setlang` | en - fr | Set the language of the bot for this server |
-| `/codes` | | Display the list of non-expired SHiFT codes |
-| `/checkcode` | code | Check the status of a specific SHiFT code |
-| `/help` | | Show all available commands |
+| Command | VALUE | Description | Usage |
+|---------|-------|-------------|-------|
+| `/setchannel` | | Set the channel to receive SHiFT codes | Admin |
+| `/setlang` | en - fr | Set the language of the bot for this server | Admin |
+| `/vaultopt` | include - exclude | Opt-in or opt-out this server from the Vault Hunt event | Admin |
+| `/codes` | | Display the list of non-expired SHiFT codes | Everyone |
+| `/vault` | | Participate in the Vault Hunt event! | Everyone |
+| `/checkcode` | code | Check the status of a specific SHiFT code | Everyone |
+| `/help` | | Show all available commands | Everyone |
