@@ -1,3 +1,25 @@
+## [2.0.0] - 2025-10-03
+
+- Updated Python and discord.py versions.  
+- Updated expiration check logic for `/codes` and `/checkcode` commands.
+   
+- Fixed compatibility with Python 3.12/3.13.  
+- Fixed compatibility with discord.py 2.4.0/2.6.3.
+  
+- Added the **Vault Hunt** event.  
+- Added `/vault` and `/vaultopt` commands.  
+- Added autocompletion for commands.
+  
+- Improved interaction interfaces with the bot.  
+- Removed support for commands in DMs.
+  
+- Users no longer see admin commands when typing slash commands.  
+- Buttons in interactive interfaces are now disabled if the view times out.  
+- General stability improvements.  
+- General translation improvements.  
+
+<br>
+
 ## [1.0.4] - 2025-09-28
 
 - Fixed an issue where the `/codes` command displayed expired codes.  
