@@ -1,3 +1,11 @@
+## [2.0.1] - 2025-10-06
+
+- Improved SHiFT code detection and reliability.
+- Enhanced date formatting for better clarity and consistency.
+- General stability and performance improvements.
+
+<br>
+
 ## [2.0.0] - 2025-10-03
 
 - Updated Python and discord.py versions.  
