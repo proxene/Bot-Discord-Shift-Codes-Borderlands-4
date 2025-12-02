@@ -3,7 +3,7 @@
 <br/>
 
 [![GitHub Issues](https://img.shields.io/github/issues/proxene/Bot-Discord-Shift-Codes-Borderlands-4.svg?style=for-the-badge)](https://github.com/proxene/Bot-Discord-Shift-Codes-Borderlands-4/issues)
-![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-On%20Hold-orange?style=for-the-badge)
 
 <br/>
 
