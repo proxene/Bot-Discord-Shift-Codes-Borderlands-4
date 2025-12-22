@@ -1,6 +1,6 @@
 ## [2.0.2] – 2025-12-22
 
-- ⚠️ Fixed a critical issue where SHiFT codes were not being persisted correctly on the production environments, causing repeated notifications.
+- ⚠️ Fixed a critical issue where SHiFT codes were not being persisted correctly, causing repeated notifications.
 - Added better error handling and logging for data persistence failures.
 - Improved overall stability of the SHiFT code checking loop.
 
